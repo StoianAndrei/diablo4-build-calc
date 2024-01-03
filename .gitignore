@@ -4,3 +4,4 @@ images/blizzard/
 *.ps1
 *.py
 *.pyc
+.Rproj.user
